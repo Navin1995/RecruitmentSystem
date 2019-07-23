@@ -1,0 +1,27 @@
+#header{
+	width: 100%;
+	margin:0px auto;
+	padding:5px;
+	margin-left:-8px;
+	margin-top:-10px;
+	text-align:center;
+	font-size:40px;
+	border:2px solid black;
+}
+#content{
+	width: 800px;
+	margin:100px auto;
+	//border:2px solid black;
+	text-align:center;
+}
+#foot{
+	background-color:black;
+	border:2px solid black;
+	height:100px;
+	width:102%;
+	position:fixed;
+	bottom:0px;
+	left:-5px;
+	color:white;
+	
+}
